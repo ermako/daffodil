@@ -1,3 +1,6 @@
 
 # don't include the rendered file
 daffodil.webp
+
+# don't push the push script
+push.sh
