@@ -5,3 +5,9 @@ daffodil.webp
 
 # don't push the push script
 push.sh
+
+# logfile
+log.txt
+
+# pixlet binary
+pixlet
